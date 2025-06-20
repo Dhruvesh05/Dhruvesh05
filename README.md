@@ -3,7 +3,7 @@
 🎓 **Computer Science Engineering Student**  
 📍 K.K. Wagh Institute of Engineering Education and Research, Nashik, Maharashtra  
 📧 Email: [dhruveshpatil7777@gmail.com](mailto:dhruveshpatil7777@gmail.com) 
-🔗 LinkedIn: [Dhruvesh Patil](https://www.linkedin.com/in/dhruveshpatil) *(Replace with actual link)*  
+🔗 LinkedIn: [Dhruvesh Patil]([https://www.linkedin.com/in/dhruveshpatil](https://www.linkedin.com/in/dhruvesh-patil-a31917280/))  
 
 ---
 
