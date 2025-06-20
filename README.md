@@ -12,7 +12,7 @@
 I’m an enthusiastic and curious Computer Science Engineering student with a strong foundation in web development and software design. I’m always improving my technical and problem-solving skills with a professional mindset.
 
 💡 I’m:
-- Adaptive to new environments  
+- Adaptive to new environments and technologies  
 - An effective communicator  
 - Fast at learning and implementing new technologies  
 - Actively involved in co-curricular and technical activities
