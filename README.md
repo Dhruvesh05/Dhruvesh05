@@ -13,7 +13,7 @@ I’m an enthusiastic and curious Computer Science Engineering student with a st
 
 💡 I’m:
 - Adaptive to new environments and technologies  
-- An effective communicator  
+- Effective communicator  
 - Fast at learning and implementing new technologies  
 - Actively involved in co-curricular and technical activities
 
