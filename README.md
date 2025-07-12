@@ -56,7 +56,7 @@ I’m a passionate and curious Computer Science Engineering student who loves tu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvesh05&layout=compact&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" height="160" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruvesh05&theme=black-ice&hide_border=false&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhruvesh05&theme=black-ice&hide_border=false&background=FFD700&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" height="160" />
 </p>
 
 
