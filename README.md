@@ -6,6 +6,23 @@
 </p>
 
 ---
+<h2 align="center">🕹️ Playful Vibes, Developer Mode: ON</h2>
+
+<p align="center">
+  <img src="https://lottie.host/3e370e2b-8b5f-47d6-9c39-b90599e39093/fYzwfA4oBG.json" width="300" alt="Game dev animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="360" alt="pixel gif" />
+</p>
+
+---
+
+### 🧩 Mini-Game Placeholder
+
+> 🎯 I'm working on cool projects like coding this little pixel guy!  
+> Want to collab on gamified tools or educational tech? Ping me!
+
 
 ## 🌟 What I’m All About
 
