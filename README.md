@@ -9,6 +9,13 @@
 </p>
 
 ---
+<h2 align="center">👾 Pac-Man is munching bugs while I code</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="280" alt="Pacman animation"/>
+</p>
+
+<p align="center"><i>“Just like Pac-Man, I’m always chasing challenges 👨‍💻🍒”</i></p>
 <h2 align="center">🕹️ Playful Vibes, Developer Mode: ON</h2>
 
 <p align="center">
