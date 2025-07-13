@@ -10,6 +10,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dhruvesh05/Dhruvesh05/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 <h2 align="center">🕹️ Playful Vibes, Developer Mode: ON</h2>
 
 <p align="center">
