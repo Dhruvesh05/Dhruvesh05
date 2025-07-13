@@ -1,88 +1,80 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Dhruvesh+Patil;Computer+Science+Student+%7C+Full-Stack+Developer;AI+Explorer+%7C+Tech+Enthusiast" alt="Typing SVG" />
-</h1>
+<h1 align="center">👨‍💻 Dhruvesh Patil</h1>
+<h3 align="center">CSE Undergrad | Full‑Stack Web Dev | AI & Automation Explorer</h3>
 
 <p align="center">
-  <img src="https://lottie.host/781e7760-775b-4447-a6f7-1d2f9c7b8397/9YqZ3r9ztZ.json" width="300" alt="dev animation" />
-</p>
-
-<p align="center">
-  <a href="mailto:dhruveshpatil7777@gmail.com"><img src="https://img.shields.io/badge/Email-DhruveshPatil7777@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dhruvesh-patil-a31917280/"><img src="https://img.shields.io/badge/LinkedIn-DhruveshPatil-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Dhruvesh05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🌟 What I’m All About
 
-🎓 Final-year CSE student at **K.K. Wagh Institute, Nashik**  
-🚀 Passionate about building **real-world solutions** through code  
-💬 I love learning, collaborating, and exploring new tech  
-🌐 Currently diving into **AI tools, automation**, and **modern web stacks**
+- 🔭 Building full‑stack web apps with **React**, **Spring Boot**, and **Django**
+- 🤖 Exploring **AI‑powered tools**, **automation**, and **smart workflows**
+- 🧩 Crafting **side projects** that solve real problems
+- 📚 Actively learning, sharing, and collaborating with the dev community
+
+---
+
+## 🧰 Tech & Tools
+
+| Frontend              | Backend               | Databases           | Dev & Deploy           |
+|----------------------|-----------------------|---------------------|------------------------|
+| React, HTML, CSS     | Node.js, Spring Boot, Django | MySQL, MongoDB      | Git, GitHub, Vercel, Netlify, Render |
+
+---
+
+## 🚀 Key Projects
+
+### 📦 Project One – *Smart Productivity Tracker*  
+- React UI + Spring Boot API  
+- AI-powered task suggestions and automated analytics  
+- Deployed on Render with MongoDB backend
+
+### 🌐 Project Two – *Automated Blog Platform*  
+- Django CMS with dynamic content pipelines  
+- Scheduled deployment using GitHub Actions & Netlify  
+- Integrated user-auth & real-time comments
+
+*(🔗 Have project ideas or feedback? Let’s chat!)*
+
+---
+
+## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://lottie.host/15c13738-70ed-4c0d-95b8-7ad75b2952a1/GOO1lmiKzM.json" width="220" alt="code animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvesh05&show_icons=true&theme=dracula&hide_border=false" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvesh05&layout=compact&theme=dracula&hide_border=false" height="140" />
 </p>
 
 ---
 
-### 🚀 Tech Stack
+## 💡 Current Focus
 
-#### 💻 Languages  
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🌐 Web & Backend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-#### 💾 Database  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### ⚙️ Tools & Deployment  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+- Building **integrated full-stack systems** using React + Spring Boot  
+- Automating dev workflows with **CI/CD**, **AI**, and **GitHub Actions**  
+- Exploring **AI-enhanced solutions** and smart integrations  
+- Taking on internships or collaborations – let’s team up!
 
 ---
 
-### 📈 GitHub Stats
+## 🛠 How I Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvesh05&show_icons=true&theme=tokyonight&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvesh05&layout=compact&theme=tokyonight&hide_border=false" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvesh05&theme=tokyonight&hide_border=false" height="160"/>
-</p>
+- **Sharpen the axe first**: focus on architecture and design before coding  
+- Stay **lean and modular**: build features iteratively, deploy often  
+- **Code + Test + Automate**: every version should deploy smoothly  
+- **Share knowledge**: blog posts, code reviews, and open-source contributions
 
 ---
 
-### 🧠 Currently Exploring
+## 🤝 Let’s Connect
 
-- 🔥 Building full-stack projects with **React + Spring Boot**
-- 🧠 Learning **AI tools, workflows, and automation**
-- 💡 Turning creative ideas into real-world applications
-
----
-
-### 🤝 Let's Connect
-
-📬 [dhruveshpatil7777@gmail.com](mailto:dhruveshpatil7777@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/dhruvesh-patil-a31917280/)
-
-<p align="center">
-  <img src="https://lottie.host/2970e990-9c98-4d6d-9e0a-8ea0b8f3b929/cgyvS19RpU.json" width="300" alt="chat animation" />
-</p>
+- 📫 **E-mail**: dhruveshpatil7777@gmail.com  
+- 🔗 **LinkedIn**: [linkedin.com/in/dhruvesh-patil-a31917280](https://www.linkedin.com/in/dhruvesh-patil-a31917280/)  
+- ⭐️ **GitHub**: [github.com/Dhruvesh05](https://github.com/Dhruvesh05)
 
 ---
 
 <p align="center">
-  ⭐️ If you like what I do, consider giving a star or following me for more!
+  🎯 If my work resonates, please ⭐ my repos or follow — your support keeps the learning going! 🌱
 </p>
