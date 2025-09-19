@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruvesh Patil</h1>
+<h1 align="center">Hi 👋, I'm Sarthak Pawwar</h1>
 <h3 align="center">🎓 Computer Science Engineering Student | 💡 Tech Enthusiast | 🚀 Future Innovator</h3>
 
 <p align="center">📍 K.K. Wagh Institute of Engineering Education and Research, Nashik, Maharashtra</p>
